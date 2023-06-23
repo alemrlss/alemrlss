@@ -1,8 +1,8 @@
+[![banner-alej.png](https://i.postimg.cc/rwWf4hg9/banner-alej.png)](https://postimg.cc/RWS15Lk3)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alejandro Morales
 ======================================================================================================================================
 
-FullStack Developer
-----------------------------------
+## FullStack Developer
 
 👋 Hi there. I've been working on applications using TypeScript, React JS, Node and NestJS, and I have experience building educational games, activities, online courses and systems for multiples companies.
 
@@ -10,10 +10,10 @@ I am passionate about the educational sector and be able to work on projects to 
 
 I work with curiosity, high detail to make greater result in my applications with honesty, responsibility and assertive communication on the work team. Always in permanent change, learning new things and topics every day to offer innovative solutions
 
-*   🌍  I'm based in Maracaibo, Venezuela
-*   ✉️  You can contact me at [envenezuela2000@gmail.com](mailto:envenezuela2000@gmail.com)
-*   🧠  I'm learning TypeScript | NextJS | Redux | GraqhQL | AI
-*   🤝  I'm open to collaborating on projects with great impact on people and science
+- 🌍  I'm based in Maracaibo, Venezuela
+- ✉️  You can contact me at [alejandroaml0528@gmail.com](mailto:alejandroaml0528@gmail.com)
+- 🧠
+- 🤝  I'm open to collaborating on projects with great impact on people and science
 
 ### Skills
 
@@ -35,5 +35,5 @@ I work with curiosity, high detail to make greater result in my applications wit
 </p>
 
 ### Socials
-                  
+
 <p align="left"> <a href="https://www.linkedin.com/in/miguel-coronel-840560145/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
