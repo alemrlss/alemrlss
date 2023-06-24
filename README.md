@@ -1,5 +1,5 @@
 [![Banner.png](https://i.postimg.cc/4NtPZs6k/Banner.png)](#)
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alejandro Morales
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
 ## FullStack Developer
@@ -11,9 +11,9 @@ I am passionate about the educational sector and be able to work on projects to 
 I work with curiosity, high detail to make greater result in my applications with honesty, responsibility and assertive communication on the work team. Always in permanent change, learning new things and topics every day to offer innovative solutions
 
 - 🌍  I'm based in Maracaibo, Venezuela
-- ✉️  You can contact me at [alejandroaml0528@gmail.com](mailto:alejandroaml0528@gmail.com)
-- 🧠
+- 🧠  I am always in constant learning
 - 🤝  I'm open to collaborating on projects with great impact on people and science
+- ✉️  You can contact me at [alejandroaml0528@gmail.com](mailto:alejandroaml0528@gmail.com)
 
 ### Skills
 
@@ -30,6 +30,7 @@ I work with curiosity, high detail to make greater result in my applications wit
 <a href="https://getbootstrap.com/" target="_blank" 
 rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB" /></a>
+
 </p>
 
 ### Socials
