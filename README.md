@@ -4,15 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## FullStack Developer
 
-👋 Hi there. I've been working on applications using TypeScript, React JS, Node and NestJS, and I have experience building educational games, activities, online courses and systems for multiples companies.
-
+👋 I'm Alejandro Morales, passionate about fullstack development. My main goal is to build effective solutions that provide a great user experience. I comfortably like to work on the frontend as well as the backend. I love tackling technical challenges and finding elegant solutions to complex problems. My approach is based on using the latest technologies and best practices to create high performance and scalable applications.
 I am passionate about the educational sector and be able to work on projects to improve the quality of life of the people with great impact.
 
 I work with curiosity, high detail to make greater result in my applications with honesty, responsibility and assertive communication on the work team. Always in permanent change, learning new things and topics every day to offer innovative solutions
 
 - 🌍  I'm based in Maracaibo, Venezuela
 - 🧠  I am always in constant learning
-- 🤝  I'm open to collaborating on projects with great impact on people and science
+- 🤝 I am willing to collaborate in projects with great impact in technology where expectations are exceeded
 - ✉️  You can contact me at [alejandroaml0528@gmail.com](mailto:alejandroaml0528@gmail.com)
 
 ### Skills
