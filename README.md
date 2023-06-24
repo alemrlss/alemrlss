@@ -17,7 +17,7 @@ I work with curiosity, high detail to make greater result in my applications wit
 
 ### Skills
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="TypeScript" /></a>
 
