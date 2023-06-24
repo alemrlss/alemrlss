@@ -30,6 +30,14 @@ I work with curiosity, high detail to make greater result in my applications wit
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" width="36" height="36" alt="Figma" /></a>
 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" width="36" height="36" alt="Figma" /></a>
+
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" width="36" height="36" alt="Figma" /></a>
+
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" width="36" height="36" alt="Figma" /></a>
+
+
+
 </p>
 
 ### Socials
