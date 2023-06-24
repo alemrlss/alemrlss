@@ -1,4 +1,4 @@
-[![Banner.png](https://i.postimg.cc/MpLRCBh6/Banner.png)](https://postimg.cc/CRjzDRhX)
+[![Banner.png](https://i.postimg.cc/4NtPZs6k/Banner.png)](https://google.com)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alejandro Morales
 ======================================================================================================================================
 
@@ -36,4 +36,4 @@ I work with curiosity, high detail to make greater result in my applications wit
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/miguel-coronel-840560145/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/alemrlss/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
