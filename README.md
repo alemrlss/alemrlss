@@ -7,8 +7,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 👋 I'm Alejandro Morales, passionate about fullstack development. My main goal is to build effective solutions that provide a great user experience. I comfortably like to work on the frontend as well as the backend. I love tackling technical challenges and finding elegant solutions to complex problems. My approach is based on using the latest technologies and best practices to create high performance and scalable applications.
 
 
-I consider myself a curious worker. With a high sense of responsibility to obtain a good result in my applications. Always in constant learning and attentive to new changes to offer innovative solutions
-
 - 🌍  I'm based in Maracaibo, Venezuela
 - 🧠  I am always in constant learning
 - 🤝 I am willing to collaborate in projects with great impact in technology where expectations are exceeded
