@@ -13,7 +13,7 @@ Me apasiona el aprendizaje continuo, compartir conocimientos con el equipo, enfr
 - 💼  Building the future, one stack at a time
 - 📧  Puedes contactarme a [alejandroaml0528@gmail.com](mailto:alejandroaml0528@gmail.com)
 
-### Skills
+### Habilidades
 
 <p align="left">
 
@@ -31,6 +31,4 @@ rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" width="36" 
 
 </p>
 
-### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/alemrlss/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" /></a></p>
