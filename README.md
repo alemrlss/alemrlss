@@ -1,4 +1,3 @@
-[![Banner.png](https://i.postimg.cc/4NtPZs6k/Banner.png)](#)
 
 
 ## Software Enginner
