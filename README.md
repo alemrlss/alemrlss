@@ -3,13 +3,15 @@
 
 ## FullStack Developer
 
-👋 I'm Alejandro Morales, passionate about fullstack development. My main goal is to build effective solutions that provide a great user experience. I comfortably like to work on the frontend as well as the backend. I love tackling technical challenges and finding elegant solutions to complex problems. My approach is based on using the latest technologies and best practices to create high performance and scalable applications.
+👋 Software Engineer especializado en desarrollo Backend, con experiencia en proyectos diversos tanto independientes como empresariales. Mi objetivo principal es mantener un enfoque pragmático, estar abierto a nuevos aprendizajes y explorar distintos enfoques para diseñar soluciones sólidas e innovadoras.
+
+Me apasiona el aprendizaje continuo, compartir conocimientos con el equipo, enfrentar desafíos laborales con creatividad y ser parte de una cultura colaborativa que fomente el crecimiento y la excelencia.
 
 
-- 🗺️  I'm based in Madrid, Spain
-- 🧠  I am always in constant learning
-- 💼 I am willing to collaborate in projects with great impact in technology where expectations are exceeded
-- 📧  You can contact me at [alejandroaml0528@gmail.com](mailto:alejandroaml0528@gmail.com)
+- 🗺️  Madrid, España
+- 🧠  Siempre en constante aprendizaje
+- 💼  Building the future, one stack at a time
+- 📧  Puedes contactarme a [alejandroaml0528@gmail.com](mailto:alejandroaml0528@gmail.com)
 
 ### Skills
 
