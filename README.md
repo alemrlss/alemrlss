@@ -1,7 +1,7 @@
 [![Banner.png](https://i.postimg.cc/4NtPZs6k/Banner.png)](#)
 
 
-## FullStack Developer
+## Software Enginner
 
 👋 Software Engineer especializado en desarrollo Backend, con experiencia en proyectos diversos tanto independientes como empresariales. Mi objetivo principal es mantener un enfoque pragmático, estar abierto a nuevos aprendizajes y explorar distintos enfoques para diseñar soluciones sólidas e innovadoras.
 
